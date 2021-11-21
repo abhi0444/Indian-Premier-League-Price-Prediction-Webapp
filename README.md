@@ -13,3 +13,6 @@ Predicted score of IPL matches using machine learning
 
 ![alt text](https://github.com/abhi0444/Indian-Premier-League-Score-Prediction-Webapp/blob/main/templates/Screenshot%20from%202021-11-21%2021-51-52.png)
 
+
+![alt text](https://github.com/abhi0444/Indian-Premier-League-Score-Prediction-Webapp/blob/main/templates/Screenshot%20from%202021-11-21%2021-53-57.png)
+
