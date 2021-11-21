@@ -6,6 +6,7 @@ Colab file link - https://colab.research.google.com/drive/1uDsopgGkMpNC055W1tKTc
 
 Dataset used (Source Kaggle)- https://drive.google.com/drive/folders/1slDY3rUkEcQJKqgpyppzexo0eB243lsm?usp=sharing
 
+Webapp Link - https://ipl-score-prediction-using-ml.herokuapp.com/predict
 
 Predicted score of IPL matches using machine learning
 
