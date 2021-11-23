@@ -2,8 +2,6 @@
 Developing a Indian Premier League Score Prediction Flask Webapp using Machine Learning
 
 
-Colab file link - https://colab.research.google.com/drive/1uDsopgGkMpNC055W1tKTc9oBfrw4u-YX?usp=sharing
-
 Dataset used (Source Kaggle)- https://drive.google.com/drive/folders/1slDY3rUkEcQJKqgpyppzexo0eB243lsm?usp=sharing
 
 Webapp Link - https://ipl-score-prediction-using-ml.herokuapp.com/predict
